@@ -1,0 +1,15 @@
+[   {
+        "id":1,
+        "name":"Hatchback",
+        "description":"A hatchback is a car type with a rear door that opens upwards. They typically feature a four-door configuration, excluding the rear door. However, two-door hatchbacks are not uncommon.",
+        "cateogry":"Maruti Suzuki Swift",
+        "price":"5 lacks"
+    },
+    {
+        "id":2,
+        "name":"Sedan",
+        "description":"Sedans have several sub-types such as notchback, fastback, compact, and sub-compact. It may be interesting to note that cars such as the older generation models of the Skoda Octavia are often incorrectly referred to as notchbacks.",
+        "cateogry":"Maruti Suzuki Swift",
+        "price":"6 lacks"
+    }
+]

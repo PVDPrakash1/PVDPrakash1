@@ -1,0 +1,20 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "description": "This website relating to cars dealship",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "PVDPrakash",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.5.6",
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
